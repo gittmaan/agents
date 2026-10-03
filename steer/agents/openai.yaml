@@ -1,0 +1,5 @@
+interface:
+  display_name: "Steer"
+  short_description: "Spine for writing software end to end"
+policy:
+  allow_implicit_invocation: false
